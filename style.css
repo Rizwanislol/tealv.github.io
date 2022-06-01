@@ -1,0 +1,79 @@
+* {
+    background-color: #3B4252;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "Kayak Sans", sans-serif;
+}
+
+.header {
+    padding: 60px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    background-color: #3B4252;
+}
+
+h1 {
+    background-color: #2E3440;
+    color: #ffffff;
+    font-family: "Kayak Sans", sans-serif;
+}
+
+h2 {
+    background-color: #2E3440;
+    color: #ffffff;
+    font-family: "Kayak Sans", sans-serif;
+}
+
+h3 {
+    background-color: #2E3440;
+    color: #ffffff;
+    font-family: "Kayak Sans", sans-serif;
+}
+
+h4 {
+    background-color: #2E3440;
+    color: #ffffff;
+    font-family: "Kayak Sans", sans-serif;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #2E3440;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #22262e;
+}
+
+.active {
+    background-color: #D8DEE9;
+    color: #4C566A;
+}
+
+.mypic {
+    width: 500px;
+}
+
+.containerflex {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    justify-content: space-between;
+}
