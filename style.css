@@ -107,3 +107,9 @@ li a:hover {
     object-fit: cover;
 }
 
+@media screen and (max-width: 1024px) {
+    .image-grid {
+        --num-cols: 2;
+        --row-height: 200px;
+    }
+}
